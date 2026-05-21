@@ -53,7 +53,7 @@ Additionally, this dataset can be used in pipelines for **Supervised Fine-Tuning
 
 **Considerations**
 
-  This dataset is provided for research and educational purposes only. It contains only sample data. For access to the full dataset and enterprise licensing options, please visit our website[InfoBay AI](https://infobay.ai/) or contact us directly.
+  This dataset is provided for research and educational purposes only. It contains only sample data. For access to the full dataset and enterprise licensing options, please visit our website [InfoBay AI](https://infobay.ai/) or contact us directly.
 
     -Ph: (91) 8303174762
     -Email: datareq@infobay.ai
